@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Release assets (only for GitHub releases, not repository)
+laxus-ssh-*.tar.gz
+install.sh
+run.sh
+RELEASE-README.md
+create-release.sh
