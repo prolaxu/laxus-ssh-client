@@ -50,3 +50,4 @@ install.sh
 run.sh
 RELEASE-README.md
 create-release.sh
+create-github-release.sh
