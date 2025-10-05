@@ -46,6 +46,8 @@ app.*.map.json
 
 # Release assets (only for GitHub releases, not repository)
 laxus-ssh-*.tar.gz
+laxus-ssh_*.deb
+deb-package/
 install.sh
 run.sh
 RELEASE-README.md
